@@ -122,15 +122,13 @@ ENDTRAP
 
 ShopList:
 SHLI KillingEdge KillerAxe KillerSword KillerBow Elixir
-ENDA
+ALIGN 4
 
 LoadIsaac:
 LOAD1 0x1 Isaac
 ENUN
 //text here
 ENDA
-
-ALIGN 4
 
 IsaacRecruitmentK:
 //text here
